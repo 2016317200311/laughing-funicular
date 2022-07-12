@@ -8,6 +8,7 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("good");
         System.out.println("yes");
+        System.out.println("zhu");
         System.out.println("aa");
     }
 }
